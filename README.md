@@ -1,48 +1,29 @@
-Hi, I'm Deepak! 👋
+# Hi, I'm Deepak! 👋
 
-🎯 Aspiring Web Developer | 💻 Frontend & Backend Enthusiast | 🌱 Continuous Learner
+🎯 **Aspiring Web Developer** | 💻 Frontend & Backend Enthusiast | 🌱 Continuous Learner
 
-📍 About Me
+I'm a passionate **Web Developer** from **New Delhi, India**, with a **BCA** from **IGNOU**. I have hands-on experience in building responsive websites using **React.js**, **Node.js**, and **Tailwind CSS**. I love solving problems and continuously learning.
 
-I'm a passionate and detail-oriented Web Developer from New Delhi, India (110080). I recently completed my Bachelor of Computer Applications (BCA) from IGNOU and am excited to embark on my career in the tech industry. With hands-on experience in web development, I aim to apply my skills in both frontend and backend technologies while continuously learning and growing.
+## 🚀 Skills
 
-🚀 Skills
+- HTML, CSS, Tailwind CSS
+- JavaScript, React.js, Next.js
+- Node.js
+- Git & GitHub
 
-Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js
+## 💼 Experience
 
-Backend: Node.js
+- **Web Development Intern** at **AshaTech** *(4 months)*
 
-Others: Responsive Web Design, Git & GitHub
+## 🔎 Projects
 
-💼 Experience
+- Check out my work on GitHub: [github.com/Sdeepak9899](https://github.com/Sdeepak9899)
 
-AshaTech - Web Development Intern (4 months)
+## 📫 Contact Me
 
-Gained hands-on experience in developing responsive and interactive websites.
+- 📧 [deepakom1593@gmail.com](mailto:deepakom1593@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-sharma-076990320)
+- 💻 [GitHub](https://github.com/Sdeepak9899)
 
-Applied coding best practices and collaborated with teams to complete projects.
-
-Enhanced my understanding of frontend and backend development workflows.
-
-🔎 Projects
-
-Check out my projects on GitHub: github.com/Sdeepak9899
-
-Built responsive websites using Tailwind CSS.
-
-Developed interactive UI components using JavaScript and React.js.
-
-Designed and implemented server-side logic using Node.js.
-
-🌐 Languages
-
-English
-
-Hindi
-
-📫 Contact Me
-
-📧 Email: deepakom1593@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/deepak-sharma-076990320
+🔔 *Open to new opportunities and collaborations!*
 
