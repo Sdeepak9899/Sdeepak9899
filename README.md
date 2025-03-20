@@ -17,7 +17,7 @@ I'm a passionate **Web Developer** from **New Delhi, India**, with a **BCA** fro
 
 ## 🔎 Projects
 
-- Check out my work on GitHub: [github.com/Sdeepak9899](https://github.com/Sdeepak9899)
+- Check out my work on GitHub: [github.com/Sdeepak9899]([https://github.com/Sdeepak9899](https://github.com/Sdeepak9899?tab=repositories))
 
 ## 📫 Contact Me
 
@@ -25,5 +25,4 @@ I'm a passionate **Web Developer** from **New Delhi, India**, with a **BCA** fro
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-sharma-076990320)
 - 💻 [GitHub](https://github.com/Sdeepak9899)
 
-🔔 *Open to new opportunities and collaborations!*
 
