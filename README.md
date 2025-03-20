@@ -11,10 +11,6 @@ I'm a passionate **Web Developer** from **New Delhi, India**, with a **BCA** fro
 - Node.js
 - Git & GitHub
 
-## 💼 Experience
-
-- **Web Development Intern** at **AshaTech** *(4 months)*
-
 ## 🔎 Projects
 
 - Check out my work on GitHub: [github.com/Sdeepak9899]([https://github.com/Sdeepak9899](https://github.com/Sdeepak9899?tab=repositories))
