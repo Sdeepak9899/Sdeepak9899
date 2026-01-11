@@ -55,67 +55,27 @@ Portfolio 👉 **https://sdeepak-portfolio.vercel.app/**
 ### 🛠 Backend
 - Node.js
 - Express.js
-- REST API Architecture
-- Authentication & Authorization
+
 
 ### 🗄 Database
 - MongoDB
 - Mongoose
 - Basic SQL knowledge
 
-### ⚙️ State & Side Effects
-- Redux Toolkit
-- Redux-Saga
 
 ### ☁️ Tools & DevOps
 - Git & GitHub
-- Cloudinary (image uploads)
-- Razorpay (payments)
 - Postman
-- Vercel / Render
 
----
 
-## 🚀 Projects (Real Work)
-
-### 🛒 E-Commerce Platform
-**Tech:** React, Redux, Node, Express, MongoDB  
-- Product management (CRUD)
-- Authentication & protected routes
-- Cart & checkout flow
-- Razorpay payment integration
-- Admin dashboard
-
-### 📊 Admin Dashboard
-**Tech:** Next.js, Redux, Chart Libraries  
-- Orders, users, and product analytics
-- Role-based access
-- Clean UI with reusable components
-
-### 🧾 Product Management API
-**Tech:** Express + TypeScript  
-- Pagination, search & filters
-- Cloudinary image handling
-- Clean controller/service separation
-
-### 📄 Dynamic Terms & Conditions Editor
-**Tech:** React, react-hook-form  
-- Editable sections
-- Bullet-point auto rendering
-- Modal-based content editing
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepak&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
