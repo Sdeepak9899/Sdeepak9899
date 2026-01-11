@@ -32,9 +32,6 @@ I work across **frontend, backend, APIs, databases, and integrations**, and I ca
 
 **What I actually do (no hype):**
 - Build full-stack apps from scratch  
-- Design REST APIs  
-- Integrate payments (Razorpay)  
-- Manage state with Redux / Redux-Saga  
 - Ship responsive, fast UIs  
 
 Portfolio 👉 **https://sdeepak-portfolio.vercel.app/**
@@ -55,24 +52,15 @@ Portfolio 👉 **https://sdeepak-portfolio.vercel.app/**
 ### 🛠 Backend
 - Node.js
 - Express.js
-- REST API Architecture
-- Authentication & Authorization
 
 ### 🗄 Database
 - MongoDB
 - Mongoose
 - Basic SQL knowledge
 
-### ⚙️ State & Side Effects
-- Redux Toolkit
-- Redux-Saga
-
 ### ☁️ Tools & DevOps
 - Git & GitHub
-- Cloudinary (image uploads)
-- Razorpay (payments)
 - Postman
-- Vercel / Render
 
 ---
 
@@ -108,14 +96,14 @@ Portfolio 👉 **https://sdeepak-portfolio.vercel.app/**
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepak&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
